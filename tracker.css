@@ -1,0 +1,1 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,'Malgun Gothic',sans-serif;font-size:17px;line-height:1.7}a{color:#285a43}#user-controls{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}#account{overflow-wrap:anywhere}#auth-status:not(:empty){padding:16px;border-radius:10px;background:#fff2cf}footer{margin:32px 0}
